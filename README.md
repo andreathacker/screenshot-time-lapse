@@ -2,7 +2,7 @@
 Take screenshots on a loop at a configurable interval. Currently this is just a simple shell script that can needs to manually started and stopped. 
 
 # Installation 
-You can download the script `take-screenshots.sh` from the `[releases](https://github.com/davidargylethacker/screenshot-time-lapse/releases)` page. Place the `take-screenshot.sh` file wherever you'd like to save it on your machine. 
+You can download the script `take-screenshots.sh` from the [releases](https://github.com/davidargylethacker/screenshot-time-lapse/releases) page. Place the `take-screenshot.sh` file wherever you'd like to save it on your machine. 
 
 Alternatively you can also Clone the repo with git 
 ```
