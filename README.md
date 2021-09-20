@@ -12,6 +12,17 @@ $ git clone https://github.com/davidargylethacker/screenshot-time-lapse.git
 # Running the Script
 Open a Terminal and navigate to wherever you saved the `take-screenshot.sh` script on your machine. 
 
+Note: If you downloaded the script directly via the releases page you might encounter this error 
+```
+david.thacker@dthacker-6YMD6M Downloads % ./take-screenshots.sh ~/Desktop/screenshots chmod-test
+zsh: permission denied: ./take-screenshots.sh
+```
+
+You can fix this by running the following command to make the script executeable 
+```
+chmod +x take-screenshots.sh 
+```
+
 Then simply run the script 
 
 ```
