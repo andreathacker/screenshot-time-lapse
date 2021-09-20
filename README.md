@@ -33,7 +33,9 @@ Saving screenshot to /Users/david.thacker/Desktop/screenshots/episode-1-4.jpg
 ```
 
 # Parameters 
-You'll notice that there are two parameters you can enter when running the script. The first parameter is the directory you'd like to save the files to. The second is the filename that will be used. The screenshot number will be automatically appended to the filename, and the screenshots are saved in .jpg format. 
+You'll notice that there are two parameters you can enter when running the script. 
+1. The first parameter is the directory you'd like to save the files to. Note: You must create this directory before you run the script. 
+2. The second is the filename that will be used. The screenshot number will be automatically appended to the filename, and the screenshots are saved in .jpg format. 
 
 # Mac Permissions
 If you're running this on Mac then the first time you start the script you'll be prompted to grant Screen Recording permissions to the Terminal app. Mac will prompt you automatically to do this, but you can also change this anytime from your System Preferences. 
